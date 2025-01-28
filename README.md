@@ -14,14 +14,14 @@ I'm a political scientist/quantitative researcher/data analyst.
 
 ## 📊 Skills (with examples) 
  **Causal inference**
- - Regression discontinuity designs [see here](https://doi.org/10.1177/00104140221139375) or [here](https://doi.org/10.1017/S0003055420000945)
- - Instrumental variable approaches [see here](https://doi.org/10.1017/S0007123423000297)
- - Other natural experiments [see here](https://doi.org/10.1080/13501763.2021.1992482)
+ - Regression discontinuity designs ([see here](https://doi.org/10.1177/00104140221139375) or [here](https://doi.org/10.1017/S0003055420000945))
+ - Instrumental variable approaches ([see here](https://doi.org/10.1017/S0007123423000297))
+ - Other natural experiments ([see here](https://doi.org/10.1080/13501763.2021.1992482))
  
  **Spatial econometrics**  
- - The design of electoral districts [see here](https://www.journals.uchicago.edu/doi/10.1086/723975)
- - Interfederal cooperation, competition, and redistribution [see here](https://doi.org/10.1086/703132)
- - Geographical sorting and the emergence of political actors [here](https://doi.org/10.1093/ser/mwaa014)
+ - The design of electoral districts ([see here](https://www.journals.uchicago.edu/doi/10.1086/723975))
+ - Interfederal cooperation, competition, and redistribution ([see here](https://doi.org/10.1086/703132))
+ - Geographical sorting and the emergence of political actors ([here](https://doi.org/10.1093/ser/mwaa014))
 
  **Machine Learning and LLMs**
  - Using LLMs to measure the ideology of heads of government (in progress)
