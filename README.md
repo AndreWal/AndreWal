@@ -2,7 +2,7 @@
 
 I'm a political scientist/quantitative researcher/data analyst. 
 
-💻 Find more about my work on my [website](https://andrewal.github.io/).
+💻 Learn more about my work and projects on my [website](https://andrewal.github.io/).
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-walter-b01620119/).
 
