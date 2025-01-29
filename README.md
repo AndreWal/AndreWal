@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a political scientist/quantitative researcher/data analyst. 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-walter-b01620119/).
+I'm a political scientist/quantitative researcher/data analyst. 
+
+💻 Find more about my work on my [website](https://andrewal.github.io/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-walter-b01620119/).
 
 ## 💼 Current Projects
   **LLM Use Cases in Political Science**  
