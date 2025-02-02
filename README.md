@@ -30,3 +30,4 @@ I'm a political scientist/quantitative researcher/data analyst.
  **Machine Learning and LLMs**
  - Using LLMs to measure the ideology of heads of government (in progress)
  - LLMs vs supervised machine learning for electoral predictions (in progress) 
+ - Using spatial machine learning to map pre-industrial regime preferences (in progress)
