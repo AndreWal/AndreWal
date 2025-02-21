@@ -28,6 +28,6 @@ I'm a political scientist/quantitative researcher/data analyst.
  - Geographical sorting and the emergence of political actors ([here](https://doi.org/10.1093/ser/mwaa014))
 
  **Machine Learning and LLMs**
- - Using LLMs to measure the ideology of heads of government (in progress)
+ - Using LLMs to measure the ideology of heads of government ([see here](https://www.researchgate.net/publication/389130765_Fine-Tuning_Ideology_Leveraging_Large_Language_Models_to_Measure_the_Ideology_of_Heads_of_Government_Around_the_World_1870-2020/stats))
  - LLMs vs supervised machine learning for electoral predictions (in progress) 
  - Using spatial machine learning to map pre-industrial regime preferences (in progress)
