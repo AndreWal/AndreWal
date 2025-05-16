@@ -8,7 +8,7 @@ I'm a political scientist/quantitative researcher/data analyst.
 
 ## 💼 Current Projects
   **LLM Use Cases in Political Science**  
-  Exploring applications of large language models for measuring ideology and predicting vote choice.  
+  Exploring applications of large language models for measuring ideology, ranking policies, and predicting vote choice.  
 
   **Spatial Machine Learning**  
   Leveraging spatial data and machine learning techniques to map and predict the geographical distribution of political preferences.  
