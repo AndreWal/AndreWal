@@ -31,3 +31,15 @@ I'm a political scientist/quantitative researcher/data analyst.
  - Using LLMs to measure the ideology of heads of government ([see here](https://www.researchgate.net/publication/389130765_Fine-Tuning_Ideology_Leveraging_Large_Language_Models_to_Measure_the_Ideology_of_Heads_of_Government_Around_the_World_1870-2020/stats))
  - LLMs vs supervised machine learning for electoral predictions (in progress) 
  - Using spatial machine learning to map pre-industrial regime preferences (in progress)
+
+## 🧰 Tech Stack
+
+| Category | Tools |
+|---------|-------|
+| Stats & ML & GIS | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) |
+| Workflow & Containers | ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) |
+| Databases | ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| Version Control | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) |
+| Web | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| Typesetting | ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white) |
+| Scripting & OS | ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
