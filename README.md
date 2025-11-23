@@ -23,7 +23,8 @@ I’m a data-driven researcher with expertise in applied statistics, causal infe
 | Typesetting | ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white) |
 | Scripting & OS | ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreWal&langs_count=5&hide=go,html,css,tex)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreWal&langs_count=5&exclude_repo=AndreWal.github.io&layout=compact&cache_seconds=14400)](https://github.com/AndreWal)
+
 
 ## Contact
 
